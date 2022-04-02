@@ -19,9 +19,19 @@
 }
 .about-img{
   width: 70%;
-  height:70%;
+  height:auto;
+}
+.hello{
+  text-decoration: none;
+  color:black;
+  opacity: 0.8;
+ 
+}
+.hello:hover{
+  color:red;
 }
 
-.hello:hover{
-color:red;
+
+
+
 }
