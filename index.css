@@ -1,0 +1,17 @@
+*{
+    padding:0;
+    margin:0;
+}
+svg{
+ margin-top: -10%;
+ width: 100%;
+ height: 100%;
+    
+}
+img{
+    width: 30%;
+   
+}
+.accordion-toggle:focus{
+    outline: none;
+}
