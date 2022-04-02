@@ -5,10 +5,8 @@
 .image{
     
     margin:auto;
-
-    
   border-radius:  30% 70% 70% 30% / 30% 30% 70% 70% ;
-  background-color:red;
+  background-color:#8A3FFC;
 }
 .banner{
   width:70%;
@@ -17,6 +15,11 @@
     
     
 }
+.description{
+  font-size: 20px;
+  font-weight:600;
+  opacity: 0.9;
+  }
 .about-img{
   width: 70%;
   height:auto;
@@ -25,13 +28,13 @@
   text-decoration: none;
   color:black;
   opacity: 0.8;
+  margin-top:10px;
  
 }
 .hello:hover{
-  color:red;
+  color:#8A3FFC;
 }
 
 
 
 
-}
