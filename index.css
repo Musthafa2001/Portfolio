@@ -42,6 +42,18 @@
   background-color:#8A3FFC;
 
 }
+.navbar-toggler:focus{
 
+  outline:none;
+  border-radius: none;
+}
 
+.accordion-button:focus,.accordion-button{
+ 
+ 
+  background-color: white;
+  color:black;
+ 
+  
+}
 
