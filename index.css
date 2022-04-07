@@ -13,8 +13,8 @@ body{
 
   background-color: #6e72fc;
   background-image: linear-gradient(315deg, #6e72fc 0%, #ad1deb 74%);
- 
-  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
 }
 .image{
     
@@ -78,23 +78,23 @@ body{
   background-color:#8A3FFC;
 
 }
-.navbar-toggler:focus{
-
-  outline:none;
-  border-radius: none;
+.accordion-item{
+  background-color: #090620;
+  color: white;
 }
-
-.accordion-button:focus,.accordion-button{
- 
- 
- background-color: #262244; 
-  color:#8A3FFC;
-  font-weight: 900;
-  border: 3px solid #8A3FFC;
- 
+.accordion-button {
+  background-color: #090620;
+  border: none;
+  color:white;
+  border:1px solid #8A3FFC; 
   
 }
 
+.accordion-header{
+  background-color: #090620;
+  color:white;
+
+}
 .image2{
   margin:auto;
 
@@ -102,5 +102,9 @@ body{
   border-radius:46% 54% 70% 30% / 64% 75% 25% 36% ;
   background-color: #663dff;
   background-image: linear-gradient(319deg, #663dff 0%, #aa00ff 37%, #cc4499 100%);
+  
+}
+.color{
+  background-color:#711A75;
   
 }
