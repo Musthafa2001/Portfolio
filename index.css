@@ -1,14 +1,33 @@
 *{
     padding:0;
     margin:0;
+   
+}
+body{
+  font-family: 'Roboto', sans-serif;
+;
+}
+.title{
+ 
+  font-family: 'Roboto', sans-serif;
+
+  background-color: #6e72fc;
+  background-image: linear-gradient(315deg, #6e72fc 0%, #ad1deb 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .image{
     
     margin:auto;
   border-radius:  30% 70% 70% 30% / 30% 30% 70% 70% ;
  
-  background-color: #8A3FFC;
+  background-color: #663dff;
+  background-image: linear-gradient(319deg, #663dff 0%, #aa00ff 37%, #cc4499 100%);
+  
+  
 }
+
+
 .banner{
   width:70%;
   height: auto;
@@ -29,8 +48,14 @@
 .description{
   font-size: 20px;
   font-weight:600;
-  opacity: 0.9;
-  }
+  opacity: 0.8;
+}
+.desc2{
+  font-weight:600;
+  opacity: 0.6;
+
+}
+
 .about-img{
   width: 70%;
   height:auto;
@@ -75,6 +100,7 @@
 
 
   border-radius:46% 54% 70% 30% / 64% 75% 25% 36% ;
-  background-color: #8A3FFC;
+  background-color: #663dff;
+  background-image: linear-gradient(319deg, #663dff 0%, #aa00ff 37%, #cc4499 100%);
   
 }
