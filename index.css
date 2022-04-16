@@ -71,3 +71,15 @@ body {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+.about-des {
+  opacity: 0.8;
+}
+
+.about-btn {
+  border: 1px solid purple;
+}
+
+.about-btn:hover {
+  background-color: purple;
+}
