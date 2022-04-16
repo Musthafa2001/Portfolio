@@ -82,3 +82,24 @@ body {
 .about-btn:hover {
   background-color: purple;
 }
+
+.accordion-item {
+  background-color: #090620;
+
+
+}
+
+.accordion-button {
+  background-color: #090620;
+  color: white;
+  border: 2px solid purple;
+  border-radius: 10px;
+}
+
+.accordion-header {
+  color: peru;
+}
+
+.bar-color {
+  background-color: purple;
+}
