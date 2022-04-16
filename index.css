@@ -1,14 +1,17 @@
-*{
-    padding:0;
-    margin:0;
-   
-}
-body{
-  font-family: 'Roboto', sans-serif;
+* {
+  padding: 0;
+  margin: 0;
 
 }
-.title{
- 
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+
+}
+
+.title {
+
   font-family: 'Roboto', sans-serif;
 
   background-color: #6e72fc;
@@ -16,98 +19,55 @@ body{
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-.image{
-    
-    margin:auto;
-  border-radius:  30% 70% 70% 30% / 30% 30% 70% 70% ;
- 
+
+.image {
+
+  margin: auto;
+  border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+
   background-color: #663dff;
   background-image: linear-gradient(319deg, #663dff 0%, #aa00ff 37%, #cc4499 100%);
-  
-  
+
+
 }
 
 
-.banner{
-  width:70%;
+.banner {
+  width: 70%;
   height: auto;
-   
-    
-    
+
+
+
 }
-.banner1{
+
+.banner1 {
   width: 80%;
   padding: 10px;
-  
-  
-  
-   
-    
-    
 }
-.description{
+
+.description {
   font-size: 20px;
-  font-weight:600;
+  font-weight: 600;
   opacity: 0.8;
 }
-.desc2{
-  font-weight:600;
+
+.desc2 {
+  font-weight: 600;
   opacity: 0.6;
 
 }
 
-.about-img{
-  width: 70%;
-  height:auto;
-}
-.hello{
-  text-decoration: none;
-  color:black;
-  opacity: 0.8;
-  margin-top:10px;
- 
-}
-.hello:hover{
-  color:#8A3FFC;
-}
-.color{
-  color:#8A3FFC;
-  
-}
-.back{
-  background-color:#8A3FFC;
-
-}
-.accordion-item{
-  background-color: #090620;
-  color: white;
-}
-.accordion-button {
-  background-color: #090620;
-  border: none;
-  color:white;
-  border:1px solid #8A3FFC; 
-  
-}
-.accordion-button::after{
-  color:red;
-}
-
-.accordion-header{
-  background-color: #090620;
-  color:white;
-
-}
-.image2{
-  margin:auto;
+/* banner finish */
+.about {
 
 
-  border-radius:46% 54% 70% 30% / 64% 75% 25% 36% ;
-  background-color: #663dff;
-  background-image: linear-gradient(319deg, #663dff 0%, #aa00ff 37%, #cc4499 100%);
-  
+  border-radius: 10px;
+  border: 1px solid purple;
 }
-.colorb{
-  background-color:#711A75;
-  
+
+.gradient-text {
+  background-color: #6e72fc;
+  background-image: linear-gradient(315deg, #6e72fc 0%, #ad1deb 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
