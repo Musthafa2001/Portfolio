@@ -67,7 +67,7 @@ body {
 
 .gradient-text {
   background-color: purple;
-  background-image: linear-gradient(315deg, #8788a9 45%, #ad1deb %);
+  background-image: linear-gradient(315deg, #8788a9 45%, #ad1deb 0%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
