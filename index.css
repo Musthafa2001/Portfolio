@@ -4,7 +4,7 @@
 
 }
 
-body {}
+
 
 .title {
 
@@ -79,17 +79,16 @@ body {}
 
 
 
-/* .accordion-button {
-  background-color: #090620;
-  color: white;
-  border: 2px solid purple;
-  border-radius: 10px;
-} */
+
 
 .accordion-header {
   color: peru;
 }
 
 .bar-color {
-  background-color: purple;
+  background-color: #5902EC;
+}
+
+.accordion-button {
+  border: 1px solid #5902EC;
 }
