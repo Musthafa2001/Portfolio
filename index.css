@@ -4,11 +4,7 @@
 
 }
 
-body {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 900;
-
-}
+body {}
 
 .title {
 
@@ -62,22 +58,10 @@ body {
 }
 
 .banner-btn {
-  background-color: #663dff;
-  background-image: linear-gradient(319deg, #663dff 0%, #aa00ff 37%, #cc4499 100%);
+  background-color: #5902EC;
 }
 
-.banner-btn:hover {
-  background-color: #663dff;
-  background-image: linear-gradient(319deg, #cc4499 37%, #aa00ff 100%);
 
-}
-
-.gradient-text {
-  background-color: #663dff;
-  background-image: linear-gradient(319deg, #663dff 0%, #aa00ff 50%, #cc4499 0%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
 
 .about-des {
   opacity: 0.8;
@@ -86,14 +70,14 @@ body {
 /* .about-btn {
   border: 1px solid purple;
 } */
-background-color: #5902EC;
+
 
 
 .about-btn:hover {
   background-color: purple;
 }
 
-.about {}
+
 
 /* .accordion-button {
   background-color: #090620;
