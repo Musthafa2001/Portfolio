@@ -15,10 +15,7 @@ body {
   font-family: 'Roboto', sans-serif;
 
 
-  background-color: #6e72fc;
-  background-image: linear-gradient(315deg, #6e72fc 0%, #ad1deb 74%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #5902EC;
 }
 
 .image {
@@ -27,7 +24,7 @@ body {
   border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
 
   background-color: #663dff;
-  background-image: linear-gradient(319deg, #663dff 0%, #aa00ff 37%, #cc4499 100%);
+  background-image: #5902EC;
 
 
 }
@@ -61,7 +58,7 @@ body {
 /* banner finish */
 .about-container {
 
-  background-image: linear-gradient(315deg, #6e72fc 0%, #ad1deb 74%);
+  background-image: #5902EC;
 }
 
 .banner-btn {
@@ -89,17 +86,14 @@ body {
 /* .about-btn {
   border: 1px solid purple;
 } */
+background-color: #5902EC;
 
 
 .about-btn:hover {
   background-color: purple;
 }
 
-.accordion-item {
-  background-color: #090620;
-
-
-}
+.about {}
 
 /* .accordion-button {
   background-color: #090620;
