@@ -4,7 +4,13 @@
 
 }
 
-
+.nav-text {
+  font-family: 'Whisper', cursive;
+  font-weight: 900;
+  text-decoration: none;
+  color: black;
+  font-weight: 900;
+}
 
 .title {
 
