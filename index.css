@@ -17,7 +17,7 @@
   font-family: 'Roboto', sans-serif;
 
 
-  color: #5902EC;
+  color: #9a32ef;
 }
 
 .image {
@@ -25,8 +25,8 @@
   margin: auto;
   border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
 
-  background-color: #663dff;
-  background-image: #5902EC;
+  background-color: #9a32ef;
+  background-image: #9a32ef;
 
 
 }
@@ -64,7 +64,7 @@
 }
 
 .banner-btn {
-  background-color: #5902EC;
+  background-color: #9a32ef;
 }
 
 
